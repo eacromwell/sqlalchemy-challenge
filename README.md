@@ -10,3 +10,13 @@ Module 10 Challenge Background                �
 - Provided is a completed Jupyter Notebook called "climate_starter" with the required analysis completed using SQLAlchemy.
 - A Flask API App was built in app.py.
 
+Visualizations:
+
+Figure 1 - Precipitation over 12 Months
+
+![fig1_precipitation_12_months](https://github.com/eacromwell/sqlalchemy-challenge/assets/123791177/991c7087-f8b9-42ea-a6f7-22eb395149af)
+
+
+  Figure 2 - Most Active Station Temperature Analysis
+  
+![fig2_most_active_station_temperature](https://github.com/eacromwell/sqlalchemy-challenge/assets/123791177/48aa190a-e9c7-44b3-86e4-1b1e839eb689)
